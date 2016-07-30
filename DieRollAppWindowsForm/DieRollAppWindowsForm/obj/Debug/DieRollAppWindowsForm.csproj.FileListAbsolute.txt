@@ -1,0 +1,9 @@
+C:\Users\Greg Tidd\Desktop\school\net2\DieRollAppWindowsForm\DieRollAppWindowsForm\bin\Debug\DieRollAppWindowsForm.exe.config
+C:\Users\Greg Tidd\Desktop\school\net2\DieRollAppWindowsForm\DieRollAppWindowsForm\bin\Debug\DieRollAppWindowsForm.exe
+C:\Users\Greg Tidd\Desktop\school\net2\DieRollAppWindowsForm\DieRollAppWindowsForm\bin\Debug\DieRollAppWindowsForm.pdb
+C:\Users\Greg Tidd\Desktop\school\net2\DieRollAppWindowsForm\DieRollAppWindowsForm\obj\Debug\DieRollAppWindowsForm.csprojResolveAssemblyReference.cache
+C:\Users\Greg Tidd\Desktop\school\net2\DieRollAppWindowsForm\DieRollAppWindowsForm\obj\Debug\DieRollAppWindowsForm.Form1.resources
+C:\Users\Greg Tidd\Desktop\school\net2\DieRollAppWindowsForm\DieRollAppWindowsForm\obj\Debug\DieRollAppWindowsForm.Properties.Resources.resources
+C:\Users\Greg Tidd\Desktop\school\net2\DieRollAppWindowsForm\DieRollAppWindowsForm\obj\Debug\DieRollAppWindowsForm.csproj.GenerateResource.Cache
+C:\Users\Greg Tidd\Desktop\school\net2\DieRollAppWindowsForm\DieRollAppWindowsForm\obj\Debug\DieRollAppWindowsForm.exe
+C:\Users\Greg Tidd\Desktop\school\net2\DieRollAppWindowsForm\DieRollAppWindowsForm\obj\Debug\DieRollAppWindowsForm.pdb

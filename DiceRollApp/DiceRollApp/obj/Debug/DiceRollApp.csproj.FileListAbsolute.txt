@@ -1,0 +1,6 @@
+C:\Users\Greg Tidd\Desktop\school\net2\DiceRollApp\DiceRollApp\bin\Debug\DiceRollApp.exe.config
+C:\Users\Greg Tidd\Desktop\school\net2\DiceRollApp\DiceRollApp\bin\Debug\DiceRollApp.exe
+C:\Users\Greg Tidd\Desktop\school\net2\DiceRollApp\DiceRollApp\bin\Debug\DiceRollApp.pdb
+C:\Users\Greg Tidd\Desktop\school\net2\DiceRollApp\DiceRollApp\obj\Debug\DiceRollApp.csprojResolveAssemblyReference.cache
+C:\Users\Greg Tidd\Desktop\school\net2\DiceRollApp\DiceRollApp\obj\Debug\DiceRollApp.exe
+C:\Users\Greg Tidd\Desktop\school\net2\DiceRollApp\DiceRollApp\obj\Debug\DiceRollApp.pdb
