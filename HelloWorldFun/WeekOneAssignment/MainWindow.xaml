@@ -1,0 +1,15 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WeekOneAssignment"
+        mc:Ignorable="d"
+        Title="Main Window" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="btnEarthlyGreeting" Content="Earthly Greeting" HorizontalAlignment="Left" Margin="158,29,0,0" VerticalAlignment="Top" Width="189" Height="53"/>
+        <Button x:Name="btnFun" Content="Fun" HorizontalAlignment="Left" Margin="158,134,0,0" VerticalAlignment="Top" Width="189" Height="53"/>
+        <Button x:Name="btnExit" Content="Exit" HorizontalAlignment="Left" Margin="158,237,0,0" VerticalAlignment="Top" Width="189" Height="53" RenderTransformOrigin="0.496,0.479" FontSize="16"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,38 @@
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\bin\Debug\WeekOneAssignment.exe.config
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\obj\Debug\MainWindow.g.vb
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\obj\Debug\Application.g.vb
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment_MarkupCompile.cache
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment_MarkupCompile.lref
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\bin\Debug\WeekOneAssignment.exe
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\bin\Debug\WeekOneAssignment.pdb
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\bin\Debug\WeekOneAssignment.xml
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\obj\Debug\MainWindow.baml
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.g.resources
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.Fun.resources
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.HelloForm.resources
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.Resources.resources
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.vbproj.GenerateResource.Cache
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.exe
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.xml
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 1\Individual\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.pdb
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\bin\Debug\WeekOneAssignment.exe.config
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.exe
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.xml
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.pdb
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\bin\Debug\WeekOneAssignment.exe
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\bin\Debug\WeekOneAssignment.pdb
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\bin\Debug\WeekOneAssignment.xml
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\bin\Debug\System.Net.Http.dll
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\bin\Debug\System.Net.Http.xml
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\obj\Debug\MainWindow.g.vb
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\obj\Debug\Application.g.vb
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment_MarkupCompile.cache
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment_MarkupCompile.lref
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\obj\Debug\MainWindow.baml
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.g.resources
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.Fun.resources
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.HelloForm.resources
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.Resources.resources
+C:\Users\gtidd000\Downloads\WeekOneAssignment\WeekOneAssignment\obj\Debug\WeekOneAssignment.vbproj.GenerateResource.Cache
