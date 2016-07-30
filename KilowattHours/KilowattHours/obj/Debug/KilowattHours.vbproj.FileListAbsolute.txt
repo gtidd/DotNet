@@ -1,0 +1,32 @@
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\bin\Debug\KilowattHours.exe.config
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\bin\Debug\KilowattHours.exe
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\bin\Debug\KilowattHours.pdb
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\bin\Debug\KilowattHours.xml
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\obj\Debug\KilowattHours.vbprojResolveAssemblyReference.cache
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\obj\Debug\MainWindow.g.vb
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\obj\Debug\Application.g.vb
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\obj\Debug\KilowattHours_MarkupCompile.cache
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\obj\Debug\KilowattHours_MarkupCompile.lref
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\obj\Debug\MainWindow.baml
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\obj\Debug\KilowattHours.g.resources
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\obj\Debug\KilowattHours.Resources.resources
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\obj\Debug\KilowattHours.vbproj.GenerateResource.Cache
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\obj\Debug\KilowattHours.exe
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\obj\Debug\KilowattHours.xml
+C:\Users\Greg\Desktop\Classwork\VB.net\Week 2\Individual\KilowattHours\KilowattHours\obj\Debug\KilowattHours.pdb
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\bin\Debug\KilowattHours.exe.config
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\obj\Debug\KilowattHours.exe
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\obj\Debug\KilowattHours.xml
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\obj\Debug\KilowattHours.pdb
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\bin\Debug\KilowattHours.exe
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\bin\Debug\KilowattHours.pdb
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\bin\Debug\KilowattHours.xml
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\obj\Debug\KilowattHours.vbprojResolveAssemblyReference.cache
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\obj\Debug\MainWindow.g.vb
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\obj\Debug\Application.g.vb
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\obj\Debug\KilowattHours_MarkupCompile.cache
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\obj\Debug\KilowattHours_MarkupCompile.lref
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\obj\Debug\MainWindow.baml
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\obj\Debug\KilowattHours.g.resources
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\obj\Debug\KilowattHours.Resources.resources
+C:\Users\Greg\Desktop\hobbies and personal\School\Classwork\VB.net\KilowattHours\KilowattHours\obj\Debug\KilowattHours.vbproj.GenerateResource.Cache
