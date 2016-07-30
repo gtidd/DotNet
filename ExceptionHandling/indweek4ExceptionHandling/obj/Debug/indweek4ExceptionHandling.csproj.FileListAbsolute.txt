@@ -1,0 +1,9 @@
+C:\Users\Greg Tidd\Desktop\school\net2\indweek4ExceptionHandling\indweek4ExceptionHandling\bin\Debug\indweek4ExceptionHandling.exe.config
+C:\Users\Greg Tidd\Desktop\school\net2\indweek4ExceptionHandling\indweek4ExceptionHandling\bin\Debug\indweek4ExceptionHandling.exe
+C:\Users\Greg Tidd\Desktop\school\net2\indweek4ExceptionHandling\indweek4ExceptionHandling\bin\Debug\indweek4ExceptionHandling.pdb
+C:\Users\Greg Tidd\Desktop\school\net2\indweek4ExceptionHandling\indweek4ExceptionHandling\obj\Debug\indweek4ExceptionHandling.csprojResolveAssemblyReference.cache
+C:\Users\Greg Tidd\Desktop\school\net2\indweek4ExceptionHandling\indweek4ExceptionHandling\obj\Debug\indweek4ExceptionHandling.ExceptionHandling.resources
+C:\Users\Greg Tidd\Desktop\school\net2\indweek4ExceptionHandling\indweek4ExceptionHandling\obj\Debug\indweek4ExceptionHandling.Properties.Resources.resources
+C:\Users\Greg Tidd\Desktop\school\net2\indweek4ExceptionHandling\indweek4ExceptionHandling\obj\Debug\indweek4ExceptionHandling.csproj.GenerateResource.Cache
+C:\Users\Greg Tidd\Desktop\school\net2\indweek4ExceptionHandling\indweek4ExceptionHandling\obj\Debug\indweek4ExceptionHandling.exe
+C:\Users\Greg Tidd\Desktop\school\net2\indweek4ExceptionHandling\indweek4ExceptionHandling\obj\Debug\indweek4ExceptionHandling.pdb

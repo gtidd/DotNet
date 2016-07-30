@@ -1,0 +1,9 @@
+C:\Users\Greg Tidd\Desktop\school\net2\FactoryReflection\FactoryReflection\bin\Debug\FactoryReflection.exe.config
+C:\Users\Greg Tidd\Desktop\school\net2\FactoryReflection\FactoryReflection\bin\Debug\FactoryReflection.exe
+C:\Users\Greg Tidd\Desktop\school\net2\FactoryReflection\FactoryReflection\bin\Debug\FactoryReflection.pdb
+C:\Users\Greg Tidd\Desktop\school\net2\FactoryReflection\FactoryReflection\obj\Debug\FactoryReflection.csprojResolveAssemblyReference.cache
+C:\Users\Greg Tidd\Desktop\school\net2\FactoryReflection\FactoryReflection\obj\Debug\FactoryReflection.Form1.resources
+C:\Users\Greg Tidd\Desktop\school\net2\FactoryReflection\FactoryReflection\obj\Debug\FactoryReflection.Properties.Resources.resources
+C:\Users\Greg Tidd\Desktop\school\net2\FactoryReflection\FactoryReflection\obj\Debug\FactoryReflection.csproj.GenerateResource.Cache
+C:\Users\Greg Tidd\Desktop\school\net2\FactoryReflection\FactoryReflection\obj\Debug\FactoryReflection.exe
+C:\Users\Greg Tidd\Desktop\school\net2\FactoryReflection\FactoryReflection\obj\Debug\FactoryReflection.pdb
